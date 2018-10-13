@@ -1,0 +1,27 @@
+{
+  "name": "rollup-plugin-linaria",
+  "version": "1.0.0",
+  "author": "Johan Holmerin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johanholmerin/rollup-plugin-linaria.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-transform-react-jsx": "^7.0.0",
+    "jest": "^23.6.0",
+    "react": "^16.5.2",
+    "rollup": "^0.66.6",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-css-only": "^0.4.0"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.1.0",
+    "linaria": "^1.0.0-alpha.8",
+    "rollup-pluginutils": "^2.3.3"
+  },
+  "keywords": [
+    "rollup-plugin"
+  ]
+}
