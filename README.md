@@ -1,3 +1,5 @@
+# DEPRECATED This is now inluded in linaria
+
 # rollup-plugin-linaria
 
 Rollup plugin for linaria.
